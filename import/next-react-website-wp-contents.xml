@@ -1,0 +1,1281 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!-- +++ インポートデータ +++ -->
+
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>CUBE</title>
+	<link>https://www.www.www</link>
+	<description>アウトプットしていくサイト</description>
+	<pubDate>Thu, 18 Aug 2022 03:52:04 +0000</pubDate>
+	<language>ja</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://www.www.www</wp:base_site_url>
+	<wp:base_blog_url>https://www.www.www</wp:base_blog_url>
+
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[moniker]]></wp:author_login><wp:author_email><![CDATA[moniker@web.mail]]></wp:author_email><wp:author_display_name><![CDATA[moniker]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+
+		<item>
+		<title><![CDATA[チェック柄の深い歴史]]></title>
+		<link>https://www.www.www/check/</link>
+		<pubDate>Mon, 21 Mar 2022 18:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://www.www.www/?p=8</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>今日はチェック柄のファッションをあちこちで目にしたので、その歴史を考察してみました。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>チェック柄の歴史の背景には、紀元前4000年までさかのぼるナイル川流域での自然の変化が関係しているようです。ナイル川の中流部付近だった古代ではこのような激しい変化はあまり見られませんでしたが、上流部にはナツメヤシの樹やトナカイなどの動物が生息していました。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>その後、ナイル川の下流や上流部で草原や牧草地が広がり、ナイル川周辺の自然環境に変化が生じました。この時代に、ナイル川やその流域などに暮らしていた先住民族の言語であるナイル語から、「チェック柄」という用語が派生したと考えられているのだとか。その後、文化によって変化したアイテムの形状や模様が、何世紀にもわたって使われています。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>最近では、服だけでなく、家具や小物、持ち物までもがカムフラージュカラーで作られ、鮮やかなチェック柄でデコレーションされているのも珍しくありません。 柔らかくソフトなソファーや、インテリアにあしらってもお洒落とのこと。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>まだまだ知らないことがたくさんあります。</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>8</wp:post_id>
+		<wp:post_date><![CDATA[2022-03-21 09:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-03-21 18:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-17 18:22:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-18 03:22:51]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[check]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="design"><![CDATA[デザインと設計]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[24]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[interior]]></title>
+		<link>https://www.www.www/interior/</link>
+		<pubDate>Thu, 18 Aug 2022 03:19:04 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/ebisucom/next-react-website/main/images-post/interior.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>12</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-18 03:19:04]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-18 03:19:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-18 03:19:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-18 03:19:04]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[interior]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/ebisucom/next-react-website/main/images-post/interior.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/08/interior.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1169;s:4:"file";s:20:"2022/08/interior.jpg";s:8:"filesize";i:440712;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:20:"interior-300x183.jpg";s:5:"width";i:300;s:6:"height";i:183;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15531;}s:5:"large";a:5:{s:4:"file";s:21:"interior-1024x623.jpg";s:5:"width";i:1024;s:6:"height";i:623;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:96762;}s:9:"thumbnail";a:5:{s:4:"file";s:20:"interior-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8263;}s:12:"medium_large";a:5:{s:4:"file";s:20:"interior-768x468.jpg";s:5:"width";i:768;s:6:"height";i:468;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:65696;}s:9:"1536x1536";a:5:{s:4:"file";s:21:"interior-1536x935.jpg";s:5:"width";i:1536;s:6:"height";i:935;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:171793;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[kamakura]]></title>
+		<link>https://www.www.www/kamakura/</link>
+		<pubDate>Thu, 18 Aug 2022 03:19:05 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/ebisucom/next-react-website/main/images-post/kamakura.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>13</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-18 03:19:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-18 03:19:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-18 03:19:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-18 03:19:05]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[kamakura]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/ebisucom/next-react-website/main/images-post/kamakura.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/08/kamakura.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1200;s:4:"file";s:20:"2022/08/kamakura.jpg";s:8:"filesize";i:149615;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:20:"kamakura-300x188.jpg";s:5:"width";i:300;s:6:"height";i:188;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8120;}s:5:"large";a:5:{s:4:"file";s:21:"kamakura-1024x640.jpg";s:5:"width";i:1024;s:6:"height";i:640;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:34610;}s:9:"thumbnail";a:5:{s:4:"file";s:20:"kamakura-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3843;}s:12:"medium_large";a:5:{s:4:"file";s:20:"kamakura-768x480.jpg";s:5:"width";i:768;s:6:"height";i:480;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:24270;}s:9:"1536x1536";a:5:{s:4:"file";s:21:"kamakura-1536x960.jpg";s:5:"width";i:1536;s:6:"height";i:960;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:59854;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[music]]></title>
+		<link>https://www.www.www/music/</link>
+		<pubDate>Thu, 18 Aug 2022 03:19:06 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/ebisucom/next-react-website/main/images-post/music.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>14</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-18 03:19:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-18 03:19:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-18 03:19:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-18 03:19:06]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[music]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/ebisucom/next-react-website/main/images-post/music.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/08/music.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:17:"2022/08/music.jpg";s:8:"filesize";i:303799;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:17:"music-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10153;}s:5:"large";a:5:{s:4:"file";s:18:"music-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:55962;}s:9:"thumbnail";a:5:{s:4:"file";s:17:"music-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4712;}s:12:"medium_large";a:5:{s:4:"file";s:17:"music-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:37132;}s:9:"1536x1536";a:5:{s:4:"file";s:19:"music-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:99351;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[pattern]]></title>
+		<link>https://www.www.www/pattern/</link>
+		<pubDate>Thu, 18 Aug 2022 03:19:07 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/ebisucom/next-react-website/main/images-post/pattern.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>15</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-18 03:19:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-18 03:19:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-18 03:19:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-18 03:19:07]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[pattern]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/ebisucom/next-react-website/main/images-post/pattern.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/08/pattern.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1080;s:4:"file";s:19:"2022/08/pattern.jpg";s:8:"filesize";i:196119;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:19:"pattern-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10274;}s:5:"large";a:5:{s:4:"file";s:20:"pattern-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:44721;}s:9:"thumbnail";a:5:{s:4:"file";s:19:"pattern-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5058;}s:12:"medium_large";a:5:{s:4:"file";s:19:"pattern-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:31446;}s:9:"1536x1536";a:5:{s:4:"file";s:20:"pattern-1536x864.jpg";s:5:"width";i:1536;s:6:"height";i:864;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:75891;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[recipe]]></title>
+		<link>https://www.www.www/recipe/</link>
+		<pubDate>Thu, 18 Aug 2022 03:19:08 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/ebisucom/next-react-website/main/images-post/recipe.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>16</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-18 03:19:08]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-18 03:19:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-18 03:19:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-18 03:19:08]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[recipe]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/ebisucom/next-react-website/main/images-post/recipe.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/08/recipe.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1080;s:4:"file";s:18:"2022/08/recipe.jpg";s:8:"filesize";i:702992;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:18:"recipe-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17952;}s:5:"large";a:5:{s:4:"file";s:19:"recipe-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:93236;}s:9:"thumbnail";a:5:{s:4:"file";s:18:"recipe-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8674;}s:12:"medium_large";a:5:{s:4:"file";s:18:"recipe-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:63320;}s:9:"1536x1536";a:5:{s:4:"file";s:19:"recipe-1536x864.jpg";s:5:"width";i:1536;s:6:"height";i:864;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:171800;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[rocket]]></title>
+		<link>https://www.www.www/rocket/</link>
+		<pubDate>Thu, 18 Aug 2022 03:19:09 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/ebisucom/next-react-website/main/images-post/rocket.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>17</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-18 03:19:09]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-18 03:19:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-18 03:19:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-18 03:19:09]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[rocket]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/ebisucom/next-react-website/main/images-post/rocket.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/08/rocket.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1980;s:6:"height";i:1150;s:4:"file";s:18:"2022/08/rocket.jpg";s:8:"filesize";i:122101;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:18:"rocket-300x174.jpg";s:5:"width";i:300;s:6:"height";i:174;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6300;}s:5:"large";a:5:{s:4:"file";s:19:"rocket-1024x595.jpg";s:5:"width";i:1024;s:6:"height";i:595;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:29989;}s:9:"thumbnail";a:5:{s:4:"file";s:18:"rocket-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3613;}s:12:"medium_large";a:5:{s:4:"file";s:18:"rocket-768x446.jpg";s:5:"width";i:768;s:6:"height";i:446;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:20062;}s:9:"1536x1536";a:5:{s:4:"file";s:19:"rocket-1536x892.jpg";s:5:"width";i:1536;s:6:"height";i:892;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:51600;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[room-temp]]></title>
+		<link>https://www.www.www/room-temp/</link>
+		<pubDate>Thu, 18 Aug 2022 03:19:10 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/ebisucom/next-react-website/main/images-post/room-temp.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>18</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-18 03:19:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-18 03:19:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-18 03:19:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-18 03:19:10]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[room-temp]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/ebisucom/next-react-website/main/images-post/room-temp.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/08/room-temp.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:21:"2022/08/room-temp.jpg";s:8:"filesize";i:171120;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:21:"room-temp-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8667;}s:5:"large";a:5:{s:4:"file";s:22:"room-temp-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:44538;}s:9:"thumbnail";a:5:{s:4:"file";s:21:"room-temp-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5034;}s:12:"medium_large";a:5:{s:4:"file";s:21:"room-temp-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:29738;}s:9:"1536x1536";a:5:{s:4:"file";s:23:"room-temp-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:75945;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[schedule]]></title>
+		<link>https://www.www.www/schedule/</link>
+		<pubDate>Thu, 18 Aug 2022 03:19:11 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/ebisucom/next-react-website/main/images-post/schedule.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>19</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-18 03:19:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-18 03:19:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-18 03:19:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-18 03:19:11]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[schedule]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/ebisucom/next-react-website/main/images-post/schedule.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/08/schedule.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:20:"2022/08/schedule.jpg";s:8:"filesize";i:242102;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:20:"schedule-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9621;}s:5:"large";a:5:{s:4:"file";s:21:"schedule-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:49408;}s:9:"thumbnail";a:5:{s:4:"file";s:20:"schedule-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5949;}s:12:"medium_large";a:5:{s:4:"file";s:20:"schedule-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:33429;}s:9:"1536x1536";a:5:{s:4:"file";s:22:"schedule-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:84109;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[wheat]]></title>
+		<link>https://www.www.www/wheat/</link>
+		<pubDate>Thu, 18 Aug 2022 03:19:12 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/ebisucom/next-react-website/main/images-post/wheat.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>20</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-18 03:19:12]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-18 03:19:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-18 03:19:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-18 03:19:12]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wheat]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/ebisucom/next-react-website/main/images-post/wheat.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/08/wheat.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:17:"2022/08/wheat.jpg";s:8:"filesize";i:450108;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:17:"wheat-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13800;}s:5:"large";a:5:{s:4:"file";s:18:"wheat-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:83302;}s:9:"thumbnail";a:5:{s:4:"file";s:17:"wheat-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6491;}s:12:"medium_large";a:5:{s:4:"file";s:17:"wheat-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:55387;}s:9:"1536x1536";a:5:{s:4:"file";s:19:"wheat-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:144123;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[art-of-reading]]></title>
+		<link>https://www.www.www/art-of-reading/</link>
+		<pubDate>Thu, 18 Aug 2022 03:19:13 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/ebisucom/next-react-website/main/images-post/art-of-reading.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>21</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-18 03:19:13]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-18 03:19:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-18 03:19:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-18 03:19:13]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[art-of-reading]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/ebisucom/next-react-website/main/images-post/art-of-reading.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/08/art-of-reading.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1080;s:4:"file";s:26:"2022/08/art-of-reading.jpg";s:8:"filesize";i:69772;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:26:"art-of-reading-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3851;}s:5:"large";a:5:{s:4:"file";s:27:"art-of-reading-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:19091;}s:9:"thumbnail";a:5:{s:4:"file";s:26:"art-of-reading-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3067;}s:12:"medium_large";a:5:{s:4:"file";s:26:"art-of-reading-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13125;}s:9:"1536x1536";a:5:{s:4:"file";s:27:"art-of-reading-1536x864.jpg";s:5:"width";i:1536;s:6:"height";i:864;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:36406;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[calc]]></title>
+		<link>https://www.www.www/calc/</link>
+		<pubDate>Thu, 18 Aug 2022 03:19:15 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/ebisucom/next-react-website/main/images-post/calc.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>22</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-18 03:19:15]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-18 03:19:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-18 03:19:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-18 03:19:15]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[calc]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/ebisucom/next-react-website/main/images-post/calc.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/08/calc.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1100;s:4:"file";s:16:"2022/08/calc.jpg";s:8:"filesize";i:1166129;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:16:"calc-300x172.jpg";s:5:"width";i:300;s:6:"height";i:172;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15851;}s:5:"large";a:5:{s:4:"file";s:17:"calc-1024x587.jpg";s:5:"width";i:1024;s:6:"height";i:587;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:152321;}s:9:"thumbnail";a:5:{s:4:"file";s:16:"calc-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7375;}s:12:"medium_large";a:5:{s:4:"file";s:16:"calc-768x440.jpg";s:5:"width";i:768;s:6:"height";i:440;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:85117;}s:9:"1536x1536";a:5:{s:4:"file";s:17:"calc-1536x880.jpg";s:5:"width";i:1536;s:6:"height";i:880;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:356770;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[cat]]></title>
+		<link>https://www.www.www/cat/</link>
+		<pubDate>Thu, 18 Aug 2022 03:19:16 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/ebisucom/next-react-website/main/images-post/cat.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>23</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-18 03:19:16]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-18 03:19:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-18 03:19:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-18 03:19:16]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cat]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/ebisucom/next-react-website/main/images-post/cat.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/08/cat.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:682;s:4:"file";s:15:"2022/08/cat.jpg";s:8:"filesize";i:67724;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:15:"cat-300x107.jpg";s:5:"width";i:300;s:6:"height";i:107;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4564;}s:5:"large";a:5:{s:4:"file";s:16:"cat-1024x364.jpg";s:5:"width";i:1024;s:6:"height";i:364;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:21186;}s:9:"thumbnail";a:5:{s:4:"file";s:15:"cat-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:1945;}s:12:"medium_large";a:5:{s:4:"file";s:15:"cat-768x273.jpg";s:5:"width";i:768;s:6:"height";i:273;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14512;}s:9:"1536x1536";a:5:{s:4:"file";s:16:"cat-1536x546.jpg";s:5:"width";i:1536;s:6:"height";i:546;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:37812;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[check]]></title>
+		<link>https://www.www.www/check-2/</link>
+		<pubDate>Thu, 18 Aug 2022 03:19:18 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/ebisucom/next-react-website/main/images-post/check.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>24</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-18 03:19:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-18 03:19:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-18 03:19:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-18 03:19:18]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[check-2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/ebisucom/next-react-website/main/images-post/check.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/08/check.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1080;s:4:"file";s:17:"2022/08/check.jpg";s:8:"filesize";i:1035708;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:17:"check-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14282;}s:5:"large";a:5:{s:4:"file";s:18:"check-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:145655;}s:9:"thumbnail";a:5:{s:4:"file";s:17:"check-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6861;}s:12:"medium_large";a:5:{s:4:"file";s:17:"check-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:87321;}s:9:"1536x1536";a:5:{s:4:"file";s:18:"check-1536x864.jpg";s:5:"width";i:1536;s:6:"height";i:864;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:269287;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[clouds]]></title>
+		<link>https://www.www.www/clouds/</link>
+		<pubDate>Thu, 18 Aug 2022 03:19:18 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/ebisucom/next-react-website/main/images-post/clouds.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>25</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-18 03:19:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-18 03:19:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-18 03:19:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-18 03:19:18]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[clouds]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/ebisucom/next-react-website/main/images-post/clouds.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/08/clouds.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1080;s:4:"file";s:18:"2022/08/clouds.jpg";s:8:"filesize";i:51663;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:18:"clouds-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3148;}s:5:"large";a:5:{s:4:"file";s:19:"clouds-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15333;}s:9:"thumbnail";a:5:{s:4:"file";s:18:"clouds-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:1905;}s:12:"medium_large";a:5:{s:4:"file";s:18:"clouds-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10041;}s:9:"1536x1536";a:5:{s:4:"file";s:19:"clouds-1536x864.jpg";s:5:"width";i:1536;s:6:"height";i:864;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:29532;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[heart]]></title>
+		<link>https://www.www.www/heart/</link>
+		<pubDate>Thu, 18 Aug 2022 03:19:19 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/ebisucom/next-react-website/main/images-post/heart.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>26</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-18 03:19:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-18 03:19:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-18 03:19:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-18 03:19:19]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[heart]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/ebisucom/next-react-website/main/images-post/heart.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/08/heart.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1080;s:4:"file";s:17:"2022/08/heart.jpg";s:8:"filesize";i:289524;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:17:"heart-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12353;}s:5:"large";a:5:{s:4:"file";s:18:"heart-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:61550;}s:9:"thumbnail";a:5:{s:4:"file";s:17:"heart-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6257;}s:12:"medium_large";a:5:{s:4:"file";s:17:"heart-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:41926;}s:9:"1536x1536";a:5:{s:4:"file";s:18:"heart-1536x864.jpg";s:5:"width";i:1536;s:6:"height";i:864;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:108092;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[テクノロジーのレシピ]]></title>
+		<link>https://www.www.www/recipe/</link>
+		<pubDate>Thu, 24 Mar 2022 18:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://www.www.www/?p=27</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>テクノロジーがどのように作用し、どのように機能するかには、日常の生活パターンが反映されません。そのような法則は存在しないので、多くの場合、人々が何に反応するかを理解しているかどうかによって決まります。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>そのため、日常の生活パターンを参考にしつつ、ユーザーエクスペリエンスを改善することは困難なのです。では、どのようにすれば、そうしたテクノロジーをうまく活用することができるのでしょうか。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>より良いユーザーエクスペリエンスが「ユーザの生活の質を高めてくれるもの」だとすれば、その観点から設計されたデザインもまた、より望ましいユーザーエクスペリエンスであると考えることができます。ユーザーエクスペリエンスは、さまざまな人間のニーズが組み合わさって形成されます。したがって、何が改善に役立つかは、数多くの取り組みから得られた知見をすべてミックスして統合することでしか、決定できません。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>改善するためのデザインは、最新のコンテンツマーケティングの革新にとって不可欠な要素です。この分野の発展は、人間中心設計の設計手法にもあてはまる、さらなる変化を生み出す一助にもなるでしょう。</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>27</wp:post_id>
+		<wp:post_date><![CDATA[2022-03-24 09:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-03-24 18:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-17 18:23:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-18 03:23:09]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[recipe]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="technology"><![CDATA[テクノロジー]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[16]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[わからないものを読み解く技術]]></title>
+		<link>https://www.www.www/art-of-reading/</link>
+		<pubDate>Fri, 01 Apr 2022 18:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://www.www.www/?p=30</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>よくわからなくても読み解かなくてはならない、そんな事態に直面することがあります。「言語はいくつもの道具から成る。言語の構成要素とその利用、つまり、シンボル、記号の記号化の過程は、道具とその組合せで、すなわち、文字、音、シンボル、記号で作られる。」というやつです。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>たとえば、古代語の解読とプログラミングは、現代ギリシア文字の解読よりも難解といわれています。それは、アリストテレスやユークリッドが書いたという「想像力」や「知恵」や「詩的な本質」という言葉の意味と、現代数学がどのように世界を解明しようとしているかとも関連しており、おもしろいヒントを与えてくれます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>プログラムコードを読み解くことは難しそうに思えますが、データ構造体のアドレスと、ロード命令の位置は対応しています。つまり、座標系が違うだけで、同じようなプログラムが記述できることが分かります。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>初心に戻ってやり直してみると、必ずまず、最初の数行を読むことからやり直さないと意味がわからなくなってしまうのですが…。その先入観を消すことが大事なのかもしれません。</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>30</wp:post_id>
+		<wp:post_date><![CDATA[2022-04-01 09:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-04-01 18:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-17 18:24:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-18 03:24:04]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[art-of-reading]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="technology"><![CDATA[テクノロジー]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[21]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[甘いものといえば小麦]]></title>
+		<link>https://www.www.www/wheat/</link>
+		<pubDate>Fri, 08 Apr 2022 18:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://www.www.www/?p=33</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>仕事の合間に、疲れたときは甘いものが欲しくなるものです。そんなときに食べるものを思い返してみると、小麦で作られたものが多いことに気付きます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>小麦を使って焼いたクッキー(こちらは皮ごと使ったサブレ)は少し硬めの食感で、バターの香りがとても豊か。小麦の味をダイレクトに感じられます。また、チョコレートは濃すぎず軽すぎずのちょうどいい軽さでお気に入りです。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>現代のように、麦を挽いて使うようになったのは近代に入ってからです。麦が「パン作りの必須アイテム」と呼ばれるようになったのはもっと近年かもしれません。ほかの麦に比べると、水につけておくと柔らかく、水につけずに挽いて作られたものは噛みごたえが足りないといわれています。そのため、もともと水につけて食べる「穀物の副食」だった麦を「主食」として食べるようになったそうです。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>ハード系・クリームパンなど、パンの種類も実にさまざま。お子様向けのパンケーキやベーグルなどのお食事系のパン、ハード系の素朴な味わいもいいですよね。温かいサンドイッチなど温かい料理を作り、温かいスープと一緒に食べることもできます。</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>33</wp:post_id>
+		<wp:post_date><![CDATA[2022-04-08 09:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-04-08 18:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-17 18:33:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-18 03:33:04]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[wheat]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="fun"><![CDATA[楽しいものいろいろ]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-17]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[20]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[インテリアの配置とバランス]]></title>
+		<link>https://www.www.www/interior/</link>
+		<pubDate>Tue, 12 Apr 2022 18:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://www.www.www/?p=36</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>インテリアのバランスとは「それらを一体的に統括する総合力のこと」と言うのだとか。部屋の各々の要素がバランス良く配置されていて、その内部が美しくまとまっていると、それら全体が美しく見えるということのようです。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>自由な暮らし方にとって、それらをどこに配置するのか、どこからがどこの部分なのか、人の目に触れてどのように映るのか、そういうものが生活の場への気配りと心地よさを創り出します。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>たとえば、ダイニングテーブルはL字型に配置するより、コの字型やL字型で囲うようにレイアウトしたほうが良い印象になります。 L字のように横に広がって配置するなら、幅広のダイニングテーブルよりも、幅の狭いものをL字の近くに配置するとバランスがとれます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>家具に余計なものを置くことで、見えてしまってはいけないものが見えてしまったり、見えないために見過ごされてしまったり、またモノを置いたら更にその圧迫感や窮屈感を与えてしまったり…。モノとの距離感というのは普段の暮らしには難しいものですが、家具選びにおいてはその距離感についても慎重になることが重要です。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>ただ、その過程で必要以上に自分の部屋内のテイストを似せてしまうと、部屋の統一感を欠いてしまうので、できるだけ似たテイストにならないようなインテリア選びを心掛けたいところです。</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>36</wp:post_id>
+		<wp:post_date><![CDATA[2022-04-12 09:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-04-12 18:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-17 18:33:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-18 03:33:32]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[interior]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="design"><![CDATA[デザインと設計]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-17]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[12]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>https://www.www.www/wp-global-styles-twentytwentytwo/</link>
+		<pubDate>Thu, 18 Aug 2022 03:14:44 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://www.www.www/wp-global-styles-twentytwentytwo/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"version": 2, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>9</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-18 03:14:44]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-18 03:14:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-18 03:14:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-18 03:14:44]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp-global-styles-twentytwentytwo]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentytwo"><![CDATA[twentytwentytwo]]></category>
+						</item>
+					<item>
+		<title><![CDATA[あちこちで見かけるハートマーク]]></title>
+		<link>https://www.www.www/heart/</link>
+		<pubDate>Wed, 13 Apr 2022 18:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://www.www.www/?p=39</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>街の中を見渡してみると、あちらこちらでハートマークが使われてます。ハートマークを見ると、何かの拍子にほっこりとした気持ちになりますね。皆さんの中にも、通勤途中で見た景色がハートの形をしていたら思わず微笑んでしまう、なんてことがあるのではないでしょうか?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>よく見ると、半分ハート、3分の2ハート、2分の1ハート、なんていう風に、いろんな形のハートが上手に配置されています。ちょっと見にくくなるのですが、上のハートはハート型の絵で、下のハートはハート型のハート型という風に、かなり細かく使い分けられています。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>全体を見渡すと、実は、結構いろいろなところでハートが使われていることがわかります。こんなとこにもあったの? と、意外な場所にもあったりします。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>公共的な場所にも意外と多く使われていて、あちらことらでしっかりとハートマークが使われているのです。</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>39</wp:post_id>
+		<wp:post_date><![CDATA[2022-04-13 09:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-04-13 18:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-17 18:33:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-18 03:33:41]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[heart]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="design"><![CDATA[デザインと設計]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-17]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[26]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[センサーを使った室温のコントロール]]></title>
+		<link>https://www.www.www/room-temp/</link>
+		<pubDate>Fri, 15 Apr 2022 18:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://www.www.www/?p=42</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>快適な室温をキープするためには、エアコンやストーブをつけたり、消したりして調整しなければなりません。ただ、家電本体だけのセンサーでは無駄が多く、光熱費もかさんでしまいます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>そこで、家全体の温度センサーでいつでも快適な室温をキープできるようにしてみました。センサーを使って各部屋の室温を監視し、その値に基づいてLEDを点滅させる仕組みとなっています。これは、24時間、常時運転してもそれほど費用も電気代もかかりません。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>また、部屋ごとの温度を調節するために、快適な室温は「23°C」に設定しました。 夏はともかく、冬は寒く感じることがあるからです。 一番いいのは、設定温度を2°Cほど高くすることなんですが、電気代も節約できます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>寒くなる部屋だけ設定温度を高くすることもできます。部屋全体を温めることは出来ませんが、窓を少し開けておく方法もあります。設置場所が冬の日中でも非常に暖かい場合は、消灯させる必要もあるでしょう。このように、最小限の操作で常に快適な温度に保っておくことができるのです。</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>42</wp:post_id>
+		<wp:post_date><![CDATA[2022-04-15 09:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-04-15 18:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-17 18:33:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-18 03:33:53]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[room-temp]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="technology"><![CDATA[テクノロジー]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-17]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[18]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[地図とGPSと立体と]]></title>
+		<link>https://www.www.www/rocket/</link>
+		<pubDate>Sat, 16 Apr 2022 18:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://www.www.www/?p=45</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>知らない場所でもGPSを使った地図があれば自分の居場所を簡単に特定することができて、迷わずに済みます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>ただし、地図が読めると言ってもそれを立体的にイメージできるわけではありません。3D化する機能もありますが、それとは異なるのです。そのため、知らない土地、たとえば観光地を巡りながら道を覚えていくことになります。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>そもそも地図を平面と捉えてはいけないと教わったこともあります。観光地では地図以外にも様々な情報を手に入れることができるからです。たとえば、SNSのタイムラインや天気情報もそうです。そういうことを考えていくと、地図だけで観光地を巡るのは当たり前ではないと言っても過言ではありません。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>もっとも、最近の地図アプリはそうした情報も複合的に地図に取り込んでいますので、どんどん便利になってきていると言えるでしょう。</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>45</wp:post_id>
+		<wp:post_date><![CDATA[2022-04-16 09:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-04-16 18:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-17 18:34:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-18 03:34:21]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[rocket]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="technology"><![CDATA[テクノロジー]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-17]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[17]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[ニューラルコンピュータとパターン]]></title>
+		<link>https://www.www.www/pattern/</link>
+		<pubDate>Sat, 16 Apr 2022 18:01:00 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://www.www.www/?p=48</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>パターンの美しさはもちろん、あらゆるモノの中に隠された隠された秘密を一緒に見いだす冒険、それがアート＆デザインのジャンルで育まれたパターンの醍醐味です。さまざまなデザインで使われているパターンやモチーフは、人間の認知パターンや感情に働きかけ、イメージによって情報が処理される過程を活性化します。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>たとえば、おなじみのポインセチアによく使われるリンゴや、最近では日本の人気アニメがマスコットキャラクターとして使われ、さまざまなシーンで定着したタンポポもその一例です。文字による伝達だけではないさまざまな表現が、人間の心理的な印象に大きく作用するということの表れでしょう。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>パターンにはきわめてパーソナルな表現としての面と、パブリックで広範な利益に資するシステムの両面が求められます。そして、これをまっとうすることができたからこそ、エコール・ド・パリの画家たちと同様にパターンを深く愛好する文化をつくりあげたのではないかと考えています。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>言語学・考古学・音楽学といったさまざまな分野の中でもパターンが活かされています。パターンを知ることで、わたしたちの認識のあり方がどのように変わるのか、その視点から学ぶのが数学の応用分野であり、ニューラルコンピュータはまさにその対象となるというわけです。</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>48</wp:post_id>
+		<wp:post_date><![CDATA[2022-04-16 09:01:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-04-16 18:01:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-17 18:32:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-18 03:32:52]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[pattern]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="technology"><![CDATA[テクノロジー]]></category>
+		<category domain="category" nicename="design"><![CDATA[デザインと設計]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-17]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[15]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[カマクラとテーブルの制作]]></title>
+		<link>https://www.www.www/kamakura/</link>
+		<pubDate>Sun, 17 Apr 2022 18:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://www.www.www/?p=51</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>今年の冬はカマクラ作りにチャレンジする機会がありました。雪を積み上げるイグルーに対し、カマクラは雪をくり抜いて作ります。人数が多かったので、カマクラはすぐに完成しました。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>大変だったのはテーブルです。テーブルの作り方は、まず8つのパーツのうち、どこをどのような形状にするかの計画を立てます。それから、材料を用意します。材料の準備ができたら順番にカットし、組み立て作業に入ります。組み立てが完了したら、最終的な調整と塗装です。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>最終調整は、下塗りと上塗り、最後の乾燥の工程です。基本的に、塗料はあらかじめ用意されているものを使用し、塗料は乾かして初めて完成となります。塗装には、専用の塗料を自作する方法もあります。それでも、最初に揃える材料はDIY用パーツ販売店より安く済みます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>もっとも手軽なのは、「ハンダごて」ではないでしょうか。この他にも、塗料を混ぜる際に入れるエアブラシとマニキュアの塗料を専用に作る方法もあります。いずれにしても、他の種類の塗料に比べて塗料代は若干高くなりますが、安く済ませたい場合は手作り方法のほうが良いでしょう。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>工作のときにはハンダ、マニキュアといった専用の道具が必要で、それらはホームセンターや工具の量販店などで購入することができます。また、工具や材料がなくても、カッターナイフやハサミ、ペンチを使えば作業できるでしょう。室温が低いと硬化までの時間が長くなるので、冬場の作業では要注意です。</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>51</wp:post_id>
+		<wp:post_date><![CDATA[2022-04-17 09:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-04-17 18:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-17 18:36:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-18 03:36:29]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[kamakura]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="fun"><![CDATA[楽しいものいろいろ]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-17]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[13]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[計算された美しさというものについて]]></title>
+		<link>https://www.www.www/calc/</link>
+		<pubDate>Sat, 23 Apr 2022 18:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://www.www.www/?p=54</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>計算された自然界の美しさを再現する試みは、自然そのままの色とはかけ離れた結果となるかも知れません。しかし、コンピューターグラフィックスを使用する作業により、私たちはより美しく鮮やかになった自然を体験できるようになります。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>なぜならば、スクリーン上に表示されるコンテンツが「ここが自然界と同じ色です」と伝達してくれるようになるからです。それは、私たちの日常生活の空間にも言えることです。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>自宅の庭に遊びに来た小さなリスは、公園を走り回っている子リスのように、はっきり色づくことはありません。しかし、コンピューターグラフィックスの世界では、ピクセル化された色を自然に感じることができます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>さらに、イメージを拡大したり縮小したりすることで、一部分の色の境界がはっきりしない自然界の風景が再現できるだけでなく、実際の生活では不可能な鮮やかな風景までも再現できます。実際、デジタル変換された画像は、ほとんどの場合ぼやけています。しかし、それらを人の目で確認すると、その輪郭や厚み、そして奥行を強調するデジタル処理が行われ、元の画像よりリアルに感じられるため、人々はそれを驚異的だと感じます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>コンピューターによる画像処理による情報の取得により、視覚的な精度はさらに向上し、同じ画像を鑑賞するにも、よりリアルに感じられるようになると言われているのです。</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>54</wp:post_id>
+		<wp:post_date><![CDATA[2022-04-23 09:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-04-23 18:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-17 18:41:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-18 03:41:37]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[calc]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="technology"><![CDATA[テクノロジー]]></category>
+		<category domain="category" nicename="design"><![CDATA[デザインと設計]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-17]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[22]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[かわいい雲のオブジェ]]></title>
+		<link>https://www.www.www/clouds/</link>
+		<pubDate>Wed, 27 Apr 2022 18:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://www.www.www/?p=57</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>モクモクした雲は、やっぱり好きです。木漏れ日の下でそんな雲を眺めていたら、自分もすっかり別世界に紛れ込んでしまったような気分になれます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>などと言いながら、かわいい雲のオブジェ制作にチャレンジしてみました。ポイントは「モクモクした感じ」です。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>最初はリアルな雲を再現しようとしたのですが、やはり4Kディスプレイでなければなかなか難しいのではないかと思ってしまいました。恐らく、「リアルな雲を再現!」等の文字が入っていても実際に見るとがっかりすることになるかもしれません。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>流体シミュレーションを用いてアニメーションを自由自在に動かすソフトも使ってみました。3Dプリンタでも似たようなことをやってくれるととてもありがたいんですが、そこまでやってくれるのかどうか。ちなみに、記事を書いてるうちに自分も欲しくなってきたんですが、さすがに買えません。デモンストレーション映像を見ていたら欲しくなってきたのですが…。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>できあがったら雲は出ていましたが、パラパラと雨も降らずに無事終了。夕方には帰路に着きました。</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>57</wp:post_id>
+		<wp:post_date><![CDATA[2022-04-27 09:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-04-27 18:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-17 18:42:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-18 03:42:55]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[clouds]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="design"><![CDATA[デザインと設計]]></category>
+		<category domain="category" nicename="fun"><![CDATA[楽しいものいろいろ]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-17]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[25]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[カメラが捉えるミクロの世界]]></title>
+		<link>https://www.www.www/micro/</link>
+		<pubDate>Sun, 01 May 2022 20:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://www.www.www/?p=60</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>今世紀に入ってからテクノロジーが加速度的に進化して、これまで見えなかった世界が見えてきました。その傾向は加速化する一方で、もう止められないのかもしれません。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>スマホで手軽に写真が撮れるようになったことも拍車をかけているようです。カメラに搭載されている画像処理エンジンが高速化した事もあり、細かい設定も簡単にできるようになってきています。写真の加工をするなら高性能なアプリもあります。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>その１つが、カメラが捉えるミクロの世界です。ミクロの世界は沢山の人々に感動を与え続けています。そして、ミクロの世界を世界に写して、人間のその脳の領分の中でどう情報として抽出して処理するか、その発想はこのデジタル世界の最初期の発想のような気がします。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>ミクロの世界を写して見えるものを見つめて、マクロの世界を理解する。さらに、そこには人間の知力では判らない様々な側面、立体性、抽象性の世界が広がっているということが最近の研究から分かってきています。人間は脳を介してしか世界の像を捉えることができない、それがカメラのようなものだとしたら・・・と仮説を立てた最新の研究です。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>こうした研究がやがて身近なスマホなどに反映され、生活に溶け込んでいくのかもしれません。</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>60</wp:post_id>
+		<wp:post_date><![CDATA[2022-05-01 11:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-05-01 20:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-17 18:44:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-18 03:44:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[micro]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="technology"><![CDATA[テクノロジー]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-17]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[音楽が呼び起こす美味しいものの記憶]]></title>
+		<link>https://www.www.www/music/</link>
+		<pubDate>Tue, 03 May 2022 23:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://www.www.www/?p=63</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>懐かしい音楽をきくと、そのときに体験した喜怒哀楽がよみがえります。大人になってから懐かしさを懐かしむことって結構多いと思うんですが、よく知らない昔を懐かしむよりも、音楽で振り返った方がより懐かしさが自分の中に残りやすい気がします。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>そのことが、また誰かに話したいと思うきっかけになることもあります。私にとって、音楽によって呼び起こされる記憶はたこ焼きソースの味です。美味しいですよね、たこ焼き。なぜ買ってきてくれたのかは解らないけど、音楽とセットで覚えていて、とにかく大好きな食べ物になりました。おいしさの旋律とでも言うのでしょうか。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>脳科学的にも、感覚器や視覚、聴覚、味覚といった感覚が伴って記憶されていることはわかっているみたいです。ただ、いくら優れた記憶力を持っている人でも、日々の生活の中で蓄積した記憶はフラッシュバックされることはないもの。そんなことから、新鮮な音楽には脳に刺激を与え、リフレッシュするための機能があり、感覚が伴って記憶されていると考えられているようです。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>それが個人的にはたこ焼きなわけですが…。たこ焼き味のせんべいも美味しいでよね。記事を書いていたら久しぶりに食べたくなってきました。</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>63</wp:post_id>
+		<wp:post_date><![CDATA[2022-05-03 14:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-05-03 23:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-17 18:45:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-18 03:45:08]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[music]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="technology"><![CDATA[テクノロジー]]></category>
+		<category domain="category" nicename="fun"><![CDATA[楽しいものいろいろ]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-17]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[14]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[スケジュール管理と猫の理論]]></title>
+		<link>https://www.www.www/schedule/</link>
+		<pubDate>Sat, 07 May 2022 19:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://www.www.www/?p=66</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>何でもすぐに忘れてしまうので、予定を忘れないようにスケジュール管理手帳で予定を管理しています。でも、本当はスケジュールをスケジュールとして正しく認識できていないのかもしれません。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>スケジュール管理は猫にまかせろ？</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>スケジュール管理も1つのデザインです。スケジュール管理の理論として有名な本もあります。『仕事と生活のバランス』で話題の著者は、学問的基礎に基づく仕事と家庭の両立の方法論の形成をめざし、仕事と生活の両立に有用なソーシャルメディアの使い方、ダイバーシティマネジメント、フレックスタイム制度の使い方などに言及しています。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":23,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://raw.githubusercontent.com/ebisucom/next-react-website/main/images-post/cat.jpg" alt="" class="wp-image-23"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>「難しいことは猫にまかせろ」という言葉があるように、自分で把握する方法もありますが、誰かに把握してもらう方法もあります。自分ひとりで完璧に把握しようとすると、必要な内容以外まで管理しはじめるので、余分な時間や労力を使うからです。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>なんだか難しく感じますが、ポイントは「時間と場所と目的を忘れないこと」が大前提だと思います。どうせなら楽しく、しっかりスケジュール管理ができるようになりたいものです。</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>66</wp:post_id>
+		<wp:post_date><![CDATA[2022-05-07 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-05-07 19:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-17 18:47:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-18 03:47:09]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[schedule]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="design"><![CDATA[デザインと設計]]></category>
+		<category domain="category" nicename="fun"><![CDATA[楽しいものいろいろ]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-17]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[19]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+				</channel>
+</rss>
+	
